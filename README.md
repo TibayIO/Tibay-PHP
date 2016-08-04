@@ -2,12 +2,11 @@
 
 ### Communicate with your IoT in 3 easy steps: ###
 1. Create network - [Here](https://tibay.io/create/)
-1. Connect IoT device - [See examples](tree/master/Examples)
-1. Send or get data - [See examples](tree/master/Examples)
+1. Connect IoT device - [See examples](https://github.com/TibayIO/Tibay-PHP/tree/master/Examples)
+1. Send or get data - [See examples](https://github.com/TibayIO/Tibay-PHP/tree/master/Examples)
 
-### Communicate with your IoT without: ###
- - VPN access
- - worry about NAT
+### More information: ###
+Check our website: [https://tibay.io/](https://tibay.io/)
 
 ### How to get started? ####
 ```sh
