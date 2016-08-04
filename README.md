@@ -5,13 +5,10 @@
 1. Connect IoT device - [See examples](https://github.com/TibayIO/Tibay-PHP/tree/master/Examples)
 1. Send or get data - [See examples](https://github.com/TibayIO/Tibay-PHP/tree/master/Examples)
 
-### More information: ###
-Check our website: [https://tibay.io/](https://tibay.io/)
-
 ### How to get started? ####
 ```sh
 $ git clone https://github.com/TibayIO/Tibay-PHP.git
 ```
-- - - -
-## More information ##
+
+### More information ###
 See how it works: [https://tibay.io/about](https://tibay.io/about) and check our website: [https://tibay.io/](https://tibay.io/)
